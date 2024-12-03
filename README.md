@@ -1,8 +1,6 @@
 # R&D Performance Dashboard by Power BI
 The dashboards leverage data from the Top 1000 R&D spenders and the Fortune 500 companies to analyze global R&D spending patterns. They identified trends, benchmarks, and insights that can guide small IT companies in optimizing their R&D investments. By visualizing key metrics such as R&D intensity, industry-specific benchmarks, and spending efficiency, the dashboards provide actionable recommendations for achieving competitive R&D performance.
 
-## [Click here to view the Power BI dashboards](https://app.powerbi.com/onedrive/open?pbi_source=ODSPViewer&driveId=b!n6UOEGnZVUCq_jkjxWJKQBaLFEELq3RJmcDsXLBQo9mpE3aG79wSQrWUQln57hXW&itemId=01MWJX5LQ3OJE5H3B6XBA2W6GEVEAPYQWK)
-
 # Key Insights
 * R&D intensity declines from Top 25 (8.86%) to Top 100 (7.44%) to Top 1000 (4.73%), serious innovators invest more heavily.​
 * US companies lead both in the number of firms in the Top 1000 and their R&D spending (Revenue of $4,566 billions, an R&D spend of $338.20 billions, and an R&D intensity of 7.4%)​.
